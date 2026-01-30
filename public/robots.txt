@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://guiaturpro.com.br/sitemap.xml

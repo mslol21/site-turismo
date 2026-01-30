@@ -1,0 +1,17 @@
+{
+  "name": "GuiaTur Pro",
+  "short_name": "GuiaTur",
+  "description": "Site profissional para guias turísticos com agendamento online.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#258ca3",
+  "icons": [
+    {
+      "src": "/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
